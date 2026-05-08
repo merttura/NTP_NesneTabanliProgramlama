@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Core\\Ntp.Domain\\Ntp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Core\\Ntp.Domain\\Ntp.Domain.csproj",
       "projectName": "Ntp.Domain",
-      "projectPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Core\\Ntp.Domain\\Ntp.Domain.csproj",
+      "projectPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Core\\Ntp.Domain\\Ntp.Domain.csproj",
       "packagesPath": "C:\\Users\\can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Core\\Ntp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Core\\Ntp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

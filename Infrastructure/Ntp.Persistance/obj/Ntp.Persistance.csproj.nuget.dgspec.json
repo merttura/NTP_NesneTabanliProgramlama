@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj": {}
+    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj": {
+    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj",
         "projectName": "Ntp.Persistance",
-        "projectPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj",
+        "projectPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Infrastructure\\Ntp.Persistance\\Ntp.Persistance.csproj",
         "packagesPath": "C:\\Users\\can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Infrastructure\\Ntp.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Infrastructure\\Ntp.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

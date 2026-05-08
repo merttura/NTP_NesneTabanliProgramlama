@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Presentation\\Ntp.API\\Ntp.API.csproj": {}
+    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Presentation\\Ntp.API\\Ntp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Presentation\\Ntp.API\\Ntp.API.csproj": {
+    "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Presentation\\Ntp.API\\Ntp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Presentation\\Ntp.API\\Ntp.API.csproj",
+        "projectUniqueName": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Presentation\\Ntp.API\\Ntp.API.csproj",
         "projectName": "Ntp.API",
-        "projectPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Presentation\\Ntp.API\\Ntp.API.csproj",
+        "projectPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Presentation\\Ntp.API\\Ntp.API.csproj",
         "packagesPath": "C:\\Users\\can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta2\\Ntp_Hafta2\\Presentation\\Ntp.API\\obj\\",
+        "outputPath": "C:\\Users\\can\\Desktop\\NESNETABANLİ\\Ntp_Hafta3\\Ntp_Hafta3\\Presentation\\Ntp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
