@@ -1,4 +1,5 @@
 using Ntp.Application;
+using Ntp.Application.Exceptions;
 using Ntp.Mapper;
 using Ntp.Persistance;
 using Scalar.AspNetCore;
@@ -38,6 +39,8 @@ app.MapScalarApiReference(options =>
     options.Theme = ScalarTheme.Default;
 
 });
+
+app.ConfigureExceptionHandlingMiddleware();
 
 app.UseHttpsRedirection();
 
